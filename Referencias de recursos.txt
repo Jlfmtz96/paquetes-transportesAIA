@@ -1,0 +1,11 @@
+A continuación, se mencionan algunas referencias de recursos que puedes utilizar para realizar el reto de implementar los endpoints en Node.js:
+-Documentación oficial de Node.js: https://nodejs.org/en/docs/
+-Documentación oficial de Express.js: https://expressjs.com/
+-Tutorial de Express.js en MDN Web Docs: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
+-Documentación oficial de EJS: https://ejs.co/
+-Ejemplo de uso de EJS con Express.js en el repositorio de Express.js: https://github.com/expressjs/express/tree/master/examples/ejs
+-Tutorial de EJS en MDN Web Docs: https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/EJS
+-Documentación oficial de MySQL: https://dev.mysql.com/doc/
+-Documentación oficial del paquete mysql para Node.js: https://github.com/mysqljs/mysql
+-Tutorial de MySQL y Node.js en W3Schools: https://www.w3schools.com/nodejs/nodejs_mysql.asp
+-Tutorial de MySQL y Node.js en Codota: https://www.codota.com/learn/nodejs/mysql
